@@ -4,4 +4,4 @@ Powered by Gatsby
 
 ## License 📝
 
-MIT.
+MIT
